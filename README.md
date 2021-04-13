@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-**hee0624/hee0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chen He, a Software Developer from China Beijing. :sunny:
 
+I'm currently working at [Iscas](https://www.scrapinghub.com/) as a Python Developer.
+📫 If you want to contact me feel free to open an issue to my [personal repo](https://github.com/hee0624/hee0624) indicating what do you want and how to contact with you (without adding any sensitive data :smile:).
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
